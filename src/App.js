@@ -54,7 +54,7 @@ function App() {
 
     console.log("networkData:-"+networkData);
 
-    var address="0x132a6bb33B592eb0B25fA43424994797880782B3";
+    var address="0xeBa518b6575604b9dc3879fBD1E5b18499acB6b4";
     if(networkId == 5777)
     {
       const election = new web3.eth.Contract(Electionabi.abi,address); //here we are calling our contract 
