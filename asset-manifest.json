@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Election-Dapp/static/css/main.bc4f3126.chunk.css",
+    "main.js": "/Election-Dapp/static/js/main.2f532da8.chunk.js",
+    "main.js.map": "/Election-Dapp/static/js/main.2f532da8.chunk.js.map",
+    "runtime-main.js": "/Election-Dapp/static/js/runtime-main.65c56e48.js",
+    "runtime-main.js.map": "/Election-Dapp/static/js/runtime-main.65c56e48.js.map",
+    "static/css/2.0bca3e4c.chunk.css": "/Election-Dapp/static/css/2.0bca3e4c.chunk.css",
+    "static/js/2.1958578f.chunk.js": "/Election-Dapp/static/js/2.1958578f.chunk.js",
+    "static/js/2.1958578f.chunk.js.map": "/Election-Dapp/static/js/2.1958578f.chunk.js.map",
+    "static/js/3.4b2735f6.chunk.js": "/Election-Dapp/static/js/3.4b2735f6.chunk.js",
+    "static/js/3.4b2735f6.chunk.js.map": "/Election-Dapp/static/js/3.4b2735f6.chunk.js.map",
+    "index.html": "/Election-Dapp/index.html",
+    "static/css/2.0bca3e4c.chunk.css.map": "/Election-Dapp/static/css/2.0bca3e4c.chunk.css.map",
+    "static/css/main.bc4f3126.chunk.css.map": "/Election-Dapp/static/css/main.bc4f3126.chunk.css.map",
+    "static/js/2.1958578f.chunk.js.LICENSE.txt": "/Election-Dapp/static/js/2.1958578f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65c56e48.js",
+    "static/css/2.0bca3e4c.chunk.css",
+    "static/js/2.1958578f.chunk.js",
+    "static/css/main.bc4f3126.chunk.css",
+    "static/js/main.2f532da8.chunk.js"
+  ]
+}
